@@ -13,7 +13,7 @@
 
 -  I’m currently learning **Python, Designing, DJAngo**
 
--  How to reach me **halimsaquib8@gmail.com@gmail.com**
+-  How to reach me **halimsaquib8@gmail.com**
 
 ### Connect with me:
 
