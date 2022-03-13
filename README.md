@@ -33,7 +33,5 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/>
-        <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiv_oKqy5_0AhVVNSsKHU-2D2IYABAAGgJzZg&ohost=www.google.com&cid=CAESQeD2yOCONoIcbi4DupOmk7zdAH8V-YK2Jpb1o3QtTu2DHwU2GHd8CBTl5p3ptCAUtGR9yVXKVix60Td6DibusFw6&sig=AOD64_2ShTWyZNCW7ED9Camr_oqwdE8few&q&adurl&ved=2ahUKEwj3vfmpy5_0AhVT_XMBHQiRDiwQ0Qx6BAgCEAE" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/unity.png"/> 
 </p>
 
