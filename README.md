@@ -1,5 +1,6 @@
 # Hi there, I'm Saquib 
-## I'm a Student, who Fasinates about Web Development,Design and Video-Editing
+## I'm a Student
+### Working & Lerning about Web Development,Webpage Design and Video-Editing
 
 
 - 🌱 I’m currently learning everything 🤣
