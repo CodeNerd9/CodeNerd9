@@ -14,7 +14,7 @@
 
 -  I’m currently learning **Python, Designing, DJAngo**
 
--  How to reach me **halimsaquib8@gmail.com**
+-  How to reach me **saquib.business123@gmail.com**
 
 ### Connect with me:
 
