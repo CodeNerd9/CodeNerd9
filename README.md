@@ -1,11 +1,7 @@
 # Hi there, I'm Saquib 
-## I'm a Student
-### Working & Lerning about Web Development,Webpage Design and Video-Editing
-
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: To Build my Own Website
-- ⚡ Fun fact: I quit everything that not instresting to me anymore.
+## I'm a Computer Engineering Student
+## I am Junior Computer Science Engineer
+### Working & Lerning about Web Development,Webpage Design and learning other domains as well.
 
 
 ##     ABOUT ME
@@ -14,7 +10,7 @@
 
 -  I’m currently learning **Python, Designing, DJAngo**
 
--  How to reach me **saquib.business123@gmail.com**
+-  How to reach me **halimsaquib.work@gmail.com**
 
 ### Connect with me:
 
