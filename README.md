@@ -1,5 +1,5 @@
 # Hi there, I'm Saquib 
-## I'm a Computer Engineering Student
+## I'm a Computer Science Engineering Student
 ## I'm a Junior Computer Science Engineer
 ### Working & Lerning about Web Development,Webpage Design and learning other domains as well.
 
