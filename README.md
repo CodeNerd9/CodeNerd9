@@ -10,7 +10,7 @@
 
 -  I’m currently learning **Python, Designing, DJAngo**
 
--  How to reach me **halimsaquib.work@gmail.com**
+-  How to reach me **halimsaquib123.work@gmail.com**
 
 ### Connect with me:
 
